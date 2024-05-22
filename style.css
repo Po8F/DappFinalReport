@@ -1,0 +1,27 @@
+html, body{
+    font-family: "Microsoft JhengHei";
+    width: 100%;
+}
+
+.containers{
+    background-color: antiquewhite;
+    border: 2px dashed lightcoral;
+    overflow: hidden;;
+    margin: 5%;
+}
+
+section{
+    float: left;
+    width: 50%;
+    padding:10px ;
+}
+
+/* #sec1{
+    width: 50%;
+    float: left;
+}
+
+#sec2{
+    width: 50%;
+    float: right;
+} */
